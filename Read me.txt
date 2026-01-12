@@ -1,0 +1,24 @@
+# magnetic and gravity forward modeling programme based on surface integral equation method for Stochastic Intrusive Body 
+
+This repository contains MATLAB code for magnetic and gravity forward modeling, as described in [Forward Modeling of Stochastic Gravity-Magnetic Anomalies from Randomly Realized Heterogeneous Subsurface Models for Deep Learning], *Computers & Geosciences*, 2025.
+
+## Requirements
+- MATLAB R2020a or later
+- Image Processing Toolbox (optional)
+
+## Quick Start
+
+To run the demo:
+
+1. Download this repository as a ZIP file:  
+   Click the green **<> Code** button → **Download ZIP**
+
+2. Extract the ZIP file to any folder on your computer.
+
+3. Open MATLAB (R2020a or later).
+
+4. In MATLAB, navigate to the folder containing `demo_run.m`.
+
+5. Type in the Command Window:
+   ```matlab
+   demo_run
